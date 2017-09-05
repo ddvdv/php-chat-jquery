@@ -1,4 +1,4 @@
-## Projet 9 - Chat PHP
+## Projet 10 - Chat jQuery en amélioration progressive
 
 ### Liens vers...
 [Briefing du projet](https://github.com/becodeorg/BXLCentral/tree/master/Projects/10-php-chat-jquery)
